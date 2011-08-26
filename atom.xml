@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Après Gilles</title>
+  <link href="http://ApresGilles.github.com/atom.xml" rel="self"/>
+  <link href="http://ApresGilles.github.com/"/>
+  <updated>2011-08-26T22:17:45+02:00</updated>
+  <id>http://ApresGilles.github.com/</id>
+  <author>
+    <name>Gnafron</name>
+    
+  </author>
+
+  
+</feed>
