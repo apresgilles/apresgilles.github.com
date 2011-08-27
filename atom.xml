@@ -4,12 +4,23 @@
   <title>Après Gilles</title>
   <link href="http://ApresGilles.github.com/atom.xml" rel="self"/>
   <link href="http://ApresGilles.github.com/"/>
-  <updated>2011-08-26T22:17:45+02:00</updated>
+  <updated>2011-08-27T15:54:47+02:00</updated>
   <id>http://ApresGilles.github.com/</id>
   <author>
     <name>Gnafron</name>
     
   </author>
 
+  
+  <entry>
+    <title>Y a comme un hic</title>
+    <link href="http://ApresGilles.github.com/blog/2011/08/26/y-a-comme-un-hic/"/>
+    <updated>2011-08-26T22:21:00+02:00</updated>
+    <id>http://ApresGilles.github.com/blog/2011/08/26/y-a-comme-un-hic</id>
+    <content type="html">&lt;p&gt;Cela fait maintenant plusieurs jours que j’écoute en boucle cette &lt;a href=&quot;http://www.youtube.com/watch?v=3Kud43hM9vg#t=02m09s&quot; title=&quot;Jenifer, comme un hic&quot;&gt;chanson&lt;/a&gt;, sans vraiment savoir pourquoi.
+Je viens de comprendre aujourd'hui.
+Le duo batterie/guitare à 02:23 me rappelle un fragment de ces années où tu étais batteur dans un groupe.&lt;/p&gt;
+</content>
+  </entry>
   
 </feed>
