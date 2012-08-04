@@ -9,5 +9,8 @@ gem 'RedCloth'
 gem 'haml', '>= 3.1'
 gem 'compass', '>= 0.11'
 gem 'rubypants'
-gem 'rb-fsevent', :git => 'https://github.com/thibaudgg/rb-fsevent.git', :tag => "v0.9.0.pre4"
+# Workaround to the rb-fsevent install issue
+#   sudo xcode-select -switch /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/
+# https://github.com/thibaudgg/rb-fsevent/issues/26#issuecomment-4050279
+gem 'rb-fsevent'
 gem 'stringex'
