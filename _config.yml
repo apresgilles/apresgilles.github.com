@@ -49,15 +49,15 @@ default_asides: [asides/recent_posts.html]
 # ----------------------- #
 
 # Twitter
-twitter_user:
-twitter_tweet_count: 4
-twitter_show_replies: false
-twitter_follow_button: true
-twitter_show_follower_count: false
-twitter_tweet_button: true
+#twitter_user:
+#twitter_tweet_count: 4
+#twitter_show_replies: false
+#twitter_follow_button: true
+#twitter_show_follower_count: false
+#twitter_tweet_button: true
 
 # Google Plus
-google_plus_one: true
+google_plus_one: false
 google_plus_one_size: medium
 
 # Pinboard
