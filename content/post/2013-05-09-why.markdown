@@ -1,8 +1,0 @@
----
-layout: post
-title: "Why"
-date: 2013-05-09 18:06
-comments: false
-categories: 
----
-<object width="425" height="344"><param name="movie" value="http://swf.tubechop.com/tubechop.swf?vurl=o-6yV1Zb3JE&start=1736&end=1870&cid=1174912"></param><embed src="http://swf.tubechop.com/tubechop.swf?vurl=o-6yV1Zb3JE&start=1736&end=1870&cid=1174912" type="application/x-shockwave-flash" allowfullscreen="true" width="425" height="344"></embed></object>

@@ -1,0 +1,13 @@
+baseUrl: http://apresgilles.com
+title: Après Gilles
+theme: potato-dark
+languageCode: en-US
+defaultContentLanguage: fr-FR
+metaDataFormat: yaml
+canonifyURLS: true
+permalinks:
+  post: /:year/:month/:day/:title
+editor: vim
+author:
+  name: Nicolas
+
