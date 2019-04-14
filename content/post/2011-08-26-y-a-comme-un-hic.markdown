@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Y a comme un hic"
-date: 2011-08-26 22:21
+date: 2011-08-26
 comments: false
 categories: 
 ---

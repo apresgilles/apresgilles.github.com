@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fin du match"
-date: 2011-09-11 10:00
+date: 2011-09-11
 comments: true
 categories: 
 ---

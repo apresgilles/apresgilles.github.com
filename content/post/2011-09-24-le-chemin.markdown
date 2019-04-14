@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Le Chemin"
-date: 2011-09-25 21:14
+date: 2011-09-25
 comments: false
 categories: 
 ---
