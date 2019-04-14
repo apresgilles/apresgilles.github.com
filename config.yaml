@@ -11,3 +11,51 @@ editor: vim
 author:
   name: Nicolas
 
+params:
+  paginate: 10
+  twitter: Your Twitter username
+  facebook: Your Facebook username
+  instagram: Your Instagram username
+  googleplus: Your Google+ account URL
+  github: Your GitHub username
+  gitlab: Your GitLab username
+  npm: Your npm username
+  codepen: Your CodePen username
+  dribbble: Your Dribbble username
+  fivehundredpx: Your 500px username
+  flickr: Your Flickr username
+  pinterest: Your Pinterest username
+  tumblr: Your Tumblr username
+  vimeo: Your Vimeo username
+  youtube: Your YouTube username
+  linkedin: Your LinkedIn username
+  disqus: ''
+  ga_api_key: Your Google Analytics tracking id
+  logo: /path/to/logo
+  favicon: /path/to/favicon
+menu:
+  main:
+    - name: Blog
+      url: /
+      weight: 1
+    - name: About
+      url: /about
+      weight: 2
+    - identifier: theme
+      name: Theme
+      weight: 3
+related:
+  threshold: 80
+  includeNewer: false
+  toLower: false
+  indices:
+    - name: keywords
+      weight: 150
+    - name: author
+      toLower: true
+      weight: 30
+    - name: tags
+      weight: 100
+    - name: date
+      weight: 10
+      pattern: '2017'
