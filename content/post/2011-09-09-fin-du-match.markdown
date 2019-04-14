@@ -12,7 +12,7 @@ alors que jusqu'à lors je n'avais rien partagé de fort avec toi,
 probablement à cause de notre différence d'âge et de caractère.
 J'avais 17 ans et toi 10 de plus, mon grand frère.
 
-C'est comme ci on avait toujours joué au foot ensemble,
+C'est comme si on avait toujours joué au foot ensemble,
 on ne se cherchait pas sur le terrain, on se trouvait par instinct.
 Cela fait partie de ces instants magiques que les musiciens ressentent
 parfois au sein d'un groupe: l'évidence intuitive.
