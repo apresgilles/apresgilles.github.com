@@ -6,7 +6,7 @@ defaultContentLanguage: fr-FR
 metaDataFormat: yaml
 canonifyURLS: true
 permalinks:
-  post: /:year/:month/:day/:title
+  posts: /:year/:month/:day/:title
 editor: vim
 author:
   name: Nicolas
