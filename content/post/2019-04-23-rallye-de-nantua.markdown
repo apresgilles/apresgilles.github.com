@@ -20,5 +20,6 @@ C'était il y a 20 ans et depuis j'aime toujours autant danser.
 J'y ai d'ailleurs rencontré celle que j'aime et qui partage ma vie.
 
 Gilles nous avions ce point commun, cet amour de la danse dont j'avais 
-vu l'éclat sur ton visage ce jour là. J'avais 7 ans.
+vu l'éclat sur ton visage ce jour là.  
+J'avais 7 ans.
 
