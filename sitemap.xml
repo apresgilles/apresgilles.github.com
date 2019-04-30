@@ -1,23 +1,62 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
-    <url>
-        <loc>http://ApresGilles.github.com/blog/2011/08/26/y-a-comme-un-hic/</loc>
-        <lastmod>2011-09-24T18:30:57+02:00</lastmod>
-    </url>
-    <url>
-        <loc>http://ApresGilles.github.com/blog/2011/09/11/fin-du-match/</loc>
-        <lastmod>2011-09-24T18:30:57+02:00</lastmod>
-    </url>
-    <url>
-        <loc>http://ApresGilles.github.com/blog/2011/09/25/le-chemin/</loc>
-        <lastmod>2012-01-04T22:28:25+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://ApresGilles.github.com/blog/archives/</loc>
-        <lastmod>2012-01-04T22:28:25+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://ApresGilles.github.com/</loc>
-        <lastmod>2012-01-04T22:28:25+01:00</lastmod>
-    </url>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://apresgilles.com/</loc>
+    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://apresgilles.com/post/</loc>
+    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://apresgilles.com/2019/04/23/rallye-de-nantua/</loc>
+    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://apresgilles.com/2019/04/12/mon-pere/</loc>
+    <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://apresgilles.com/2011/09/25/le-chemin/</loc>
+    <lastmod>2011-09-25T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://apresgilles.com/2011/09/11/fin-du-match/</loc>
+    <lastmod>2011-09-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://apresgilles.com/2011/08/26/y-a-comme-un-hic/</loc>
+    <lastmod>2011-08-26T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>http://apresgilles.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://apresgilles.com/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
 </urlset>
