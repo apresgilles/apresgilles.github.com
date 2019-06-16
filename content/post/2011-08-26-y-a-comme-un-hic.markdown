@@ -10,4 +10,6 @@ Cela fait maintenant plusieurs jours que j’écoute en boucle cette [chanson][]
 Je viens de comprendre aujourd'hui.   
 Le duo batterie/guitare à 02:23 me rappelle un fragment des années 70 où tu étais batteur dans un groupe.
 
+!["Gilles"](/images/gilles.jpg)
+
   [chanson]: http://www.youtube.com/watch?v=3Kud43hM9vg#t=02m09s "Jenifer, comme un hic"
