@@ -4,6 +4,7 @@ date: 2019-04-12
 comments: false
 ---
 
+
 Voici le texte que j'ai écrit pour honorer la mémoire de mon père.
 
 
@@ -108,3 +109,4 @@ Adieu
  &nbsp;&nbsp;mon père,  
  &nbsp;&nbsp;mon repère.
 
+!["Papa"](/images/papa.png)
